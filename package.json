@@ -1,0 +1,11 @@
+{
+  "name": "megabot",
+  "version": "1.0.0",
+  "description": "Direction bot that gives direction",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Waikien Goh",
+  "license": "MIT"
+}
